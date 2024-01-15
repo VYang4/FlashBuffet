@@ -1,0 +1,42 @@
+{"restaurants": [
+    {
+        "contactInfo": "Front desk - 73700000",
+        "name": "Hyatt",
+        "offerings": [
+            {
+                "price": 10,
+                "foodType": "Chinese",
+                "location": "2nd floor, 3337 W 45th Ave",
+                "id": 1,
+                "time": "14:00 - 15:00"
+            },
+            {
+                "price": 20,
+                "foodType": "Thai",
+                "location": "3nd floor, 3337 W 45th Ave",
+                "id": 2,
+                "time": "20:00 - 21:00"
+            }
+        ]
+    },
+    {
+        "contactInfo": "Front desk - 74700000",
+        "name": "Hilton",
+        "offerings": [
+            {
+                "price": 25,
+                "foodType": "Mexican",
+                "location": "2nd floor, 44 W 10th Ave",
+                "id": 1,
+                "time": "14:00 - 15:00"
+            },
+            {
+                "price": 20,
+                "foodType": "Indian",
+                "location": "1nd floor, 44 W 10th Ave",
+                "id": 2,
+                "time": "20:00 - 21:00"
+            }
+        ]
+    }
+]}
