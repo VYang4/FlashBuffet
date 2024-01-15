@@ -1,0 +1,38 @@
+{"restaurants": [
+  {
+    "contactInfo": "89809090",
+    "name": "Marriott",
+    "offerings": [
+      {
+        "price": 20,
+        "foodType": "Thai",
+        "location": "1st floor - 4400 Marriott Dr.",
+        "id": 1,
+        "time": "14:00-16:00"
+      },
+      {
+        "price": 15,
+        "foodType": "Korean",
+        "location": "4th floor - 4400 Marriott Dr",
+        "id": 2,
+        "time": "14:00-15:00"
+      }
+    ]
+  },
+  {
+    "contactInfo": "66779933",
+    "name": "Sheraton",
+    "offerings": [{
+      "price": 35,
+      "foodType": "Barbecue",
+      "location": "2nd floor - 343 Pineapple St.",
+      "id": 1,
+      "time": "20:00-21:00"
+    }]
+  },
+  {
+    "contactInfo": "44558899",
+    "name": "Fairmont",
+    "offerings": []
+  }
+]}
