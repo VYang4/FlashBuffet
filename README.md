@@ -18,3 +18,5 @@ Possible features include showing the customers the locations, the time, the pri
 - As a user, I want to be able to search by restaurant name and view the list of offerings in this restaurant
 - As a user, I want to be able to save my listings and restaurants to file (if I so choose)
 - As a user, I want to be able to load my listings and restaurants from file (if I so choose)
+
+## Video demo
